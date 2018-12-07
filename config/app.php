@@ -161,7 +161,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         Way\Generators\GeneratorsServiceProvider::class,
         Xethron\MigrationsGenerator\MigrationsGeneratorServiceProvider::class,
-
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
 
         /*
          * Package Service Providers...

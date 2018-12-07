@@ -11,4 +11,4 @@
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-Route::resource('monitorar', 'MonitoramentoController');
+Route::resource('monitorar', 'MonitoringController');
